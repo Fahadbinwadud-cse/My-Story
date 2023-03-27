@@ -85,3 +85,8 @@ https://facebook.com
  ## Image syntax
  ![profile](./Guru99.PNG)
 🙂
+## This is Table contains
+|Name |Email |
+|-----|-------|
+|Fahad Bin Wadud|Here is some text|
+|Anamul Khan| Here is your email|
